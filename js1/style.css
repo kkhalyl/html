@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.produtos {
+  text-align: center;
+  font-weight: bold;
+}
+
+.mult{
+  text-align: center;
+}
+
+.tabela{
+  display: inline-block;
+}
