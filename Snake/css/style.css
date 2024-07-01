@@ -1,0 +1,23 @@
+#game-over {
+  position: absolute;
+  top: 7px;
+  right: 720px;
+  font-size: 20px;
+  color: black;
+  display: none;
+}
+
+#score{
+  font-style: bold;
+  font-size: 20px;
+}
+
+#board {
+  background-color: #ccc;
+  border: 0.5px solid #8f8f8f;
+}
+
+#board td {
+  width: 16px;
+  height: 16px;
+}
